@@ -11,7 +11,7 @@
 ### Bot requirements:
 
 > - t
-> ![requirement](../tree/documentation/requirements/msg-content-intent.png)
+> ![requirement](./documentation/requirements/msg-content-intent.png)
 
 tests:
 
