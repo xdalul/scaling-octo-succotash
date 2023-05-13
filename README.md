@@ -1,4 +1,4 @@
-# Pinguin-Bot *~ By DaLoL*
+# Pinguin-Bot ~ By DaLoL
 
 ## <ins>Documentation</ins>
 
@@ -10,33 +10,6 @@
 
 ### Bot requirements:
 
-> - t
-> ![requirement](https://github.com/Tinglyyy/scaling-octo-succotash/blob/add-documentation/documentation/images/msg-content-intent.png)
+> - The message content intent option (image) has to be enabled
+![requirement](https://github.com/Tinglyyy/scaling-octo-succotash/blob/add-documentation/documentation/images/msg-content-intent.png)
 
-tests:
-
-hallo **bold** *cursiv* ***bold+cursiv***
->blockquote
->>nested blockquote
-
-1. 1
-2. 2
-3. 3
-4. 4
-
-- 1
-- 2
-- 3
-- 4
-
-  - intendend item
-
-<html>
-
-    <script>a</script>
-
-</html>
-
-```
-print("hello world")
-```
