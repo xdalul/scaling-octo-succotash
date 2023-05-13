@@ -1,6 +1,6 @@
 # Pinguin-Bot *~ By DaLoL*
 
-## <ins>Dokumentation</ins>
+## <ins>Documentation</ins>
 
 ### Modifying and Running:
 
@@ -11,7 +11,7 @@
 ### Bot requirements:
 
 > - t
-> ![requirement](./documentation/requirements/msg-content-intent.png)
+> ![requirement](https://github.com/Tinglyyy/scaling-octo-succotash/blob/add-documentation/documentation/images/msg-content-intent.png)
 
 tests:
 
