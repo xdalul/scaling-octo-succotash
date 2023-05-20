@@ -12,11 +12,11 @@ public class Main {
 
 
     public static void main(String[] args) throws LoginException {
-        String prefix = "!";
+        String prefix = "!"; // the current prefix is '!'. Change to prefererd prefix
 
         System.out.println(prefix);
 
-        String token = "MTAxMjcxNTI0NDgzNTA1MzYzMA.GovrCg.WFzpCUIQnxOFeV93RVYqCvOGhXBqFK6vULl4HQ";
+        String token = "{TOKEN}"; // change to bot-token
 
         JDABuilder bauplan = JDABuilder.createDefault(token);
 
@@ -24,7 +24,6 @@ public class Main {
 
         bauplan.setStatus(OnlineStatus.IDLE);
         bauplan.setActivity(Activity.watching("Pinguindave zu"));
-
 
         bauplan.addEventListeners(new ChangeLog());
         bauplan.addEventListeners(new NachrichtenReaktion());
